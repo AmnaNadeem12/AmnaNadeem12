@@ -27,32 +27,30 @@ REST APIs, JWT Authentication, Role-Based Access Control (RBAC), Git, Object-Ori
 
 ## Projects
 
-### Landit — AI-Powered Career Platform
-
+###  Landit — AI-Powered Career Platform
 A full-stack platform designed to help users optimize resumes and practice interviews through AI-driven interactions.
 
-* Built using Next.js, TypeScript, Convex, and Vapi AI
-* Implements a real-time, event-driven backend
-* Simulates realistic interview scenarios
-
+-Built with Next.js, TypeScript, Convex, Clerk, Vapi AI, and TailwindCSS
+-Implements a real-time, event-driven backend using Convex
+-Simulates realistic interview scenarios with adaptive voice AI
 
 ---
 
-### DeepMind AI — RAG Document Chat
-Built a full-stack AI-powered document assistant that allows users to upload any PDF and chat with it using text or voice.
-Implemented a full RAG pipeline: PDF ingestion, text chunking, vector embeddings, and semantic search using Convex’s
-native.
-Integrated Google Gemini 1.5 Flash for streaming AI responses and Web Speech API for a fully browser-native voice 
-*Built using React · Node.js · Express.js · Convex · GoogleGeminiAPI · 
+###DeepMind AI — RAG Document Chat
+A full-stack AI-powered document assistant that allows users to upload any PDF and chat with it using text or voice.
+
+-Implemented a complete RAG pipeline: PDF ingestion, text chunking, vector embeddings, and semantic search using Convex's native vector index
+-Integrated Google Gemini 1.5 Flash for real-time streaming AI responses
+-Built a browser-native voice interface using Web Speech API — zero paid services required
+-Built with React, Node.js, Express.js, Convex, and Google Gemini API
 ---
 
-### Student Expense Tracker
-
+###  Student Expense Tracker
 A web application for tracking expenses and managing budgets.
 
-* Categorized expense tracking with data visualization
-* Budget monitoring and alerts
-* Backend powered by SQL with structured queries
+-Categorized expense tracking with interactive data visualization using Chart.js
+-Budget monitoring with over-limit alerts
+-Backend powered by SQL Server with normalized schema and stored procedures
 
 
 ---
@@ -61,9 +59,9 @@ A web application for tracking expenses and managing budgets.
 
 A full-stack application for managing products and customer orders.
 
-* Supports order placement, tracking, and cancellation
-* RESTful API design with SQL Server integration
-* Uses stored procedures to maintain data integrity
+- Supports order placement, tracking, and cancellation
+- RESTful API design with SQL Server integration
+- Uses stored procedures to maintain data integrity
 
 
 ---
