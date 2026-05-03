@@ -36,13 +36,13 @@ A full-stack platform designed to help users optimize resumes and practice inter
 
 ---
 
-###DeepMind AI — RAG Document Chat
+###  DeepMind AI — RAG Document Chat
 A full-stack AI-powered document assistant that allows users to upload any PDF and chat with it using text or voice.
 
--Implemented a complete RAG pipeline: PDF ingestion, text chunking, vector embeddings, and semantic search using Convex's native vector index
--Integrated Google Gemini 1.5 Flash for real-time streaming AI responses
--Built a browser-native voice interface using Web Speech API — zero paid services required
--Built with React, Node.js, Express.js, Convex, and Google Gemini API
+- Implemented a complete RAG pipeline: PDF ingestion, text chunking, vector embeddings, and semantic search using Convex's native vector index
+- Integrated Google Gemini 1.5 Flash for real-time streaming AI responses
+- Built a browser-native voice interface using Web Speech API — zero paid services required
+- Built with React, Node.js, Express.js, Convex, and Google Gemini API
 ---
 
 ###  Student Expense Tracker
