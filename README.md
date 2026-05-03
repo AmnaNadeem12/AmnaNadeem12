@@ -35,20 +35,15 @@ A full-stack platform designed to help users optimize resumes and practice inter
 * Implements a real-time, event-driven backend
 * Simulates realistic interview scenarios
 
-Link: (add repository link here)
 
 ---
 
-### SecureAuth — Authentication and Authorization System
-
-A secure authentication system implementing industry-standard practices.
-
-* JWT-based authentication with access and refresh tokens
-* Role-Based Access Control for protected routes
-* Security measures aligned with OWASP guidelines
-
-Link: (add repository link here)
-
+### DeepMind AI — RAG Document Chat
+Built a full-stack AI-powered document assistant that allows users to upload any PDF and chat with it using text or voice.
+Implemented a full RAG pipeline: PDF ingestion, text chunking, vector embeddings, and semantic search using Convex’s
+native.
+Integrated Google Gemini 1.5 Flash for streaming AI responses and Web Speech API for a fully browser-native voice 
+*Built using React · Node.js · Express.js · Convex · GoogleGeminiAPI · 
 ---
 
 ### Student Expense Tracker
@@ -59,7 +54,6 @@ A web application for tracking expenses and managing budgets.
 * Budget monitoring and alerts
 * Backend powered by SQL with structured queries
 
-Link: (add repository link here)
 
 ---
 
@@ -71,7 +65,6 @@ A full-stack application for managing products and customer orders.
 * RESTful API design with SQL Server integration
 * Uses stored procedures to maintain data integrity
 
-Link: (add repository link here)
 
 ---
 
