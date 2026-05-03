@@ -30,9 +30,9 @@ REST APIs, JWT Authentication, Role-Based Access Control (RBAC), Git, Object-Ori
 ###  Landit — AI-Powered Career Platform
 A full-stack platform designed to help users optimize resumes and practice interviews through AI-driven interactions.
 
--Built with Next.js, TypeScript, Convex, Clerk, Vapi AI, and TailwindCSS
--Implements a real-time, event-driven backend using Convex
--Simulates realistic interview scenarios with adaptive voice AI
+- Built with Next.js, TypeScript, Convex, Clerk, Vapi AI, and TailwindCSS
+- Implements a real-time, event-driven backend using Convex
+- Simulates realistic interview scenarios with adaptive voice AI
 
 ---
 
@@ -48,9 +48,9 @@ A full-stack AI-powered document assistant that allows users to upload any PDF a
 ###  Student Expense Tracker
 A web application for tracking expenses and managing budgets.
 
--Categorized expense tracking with interactive data visualization using Chart.js
--Budget monitoring with over-limit alerts
--Backend powered by SQL Server with normalized schema and stored procedures
+- Categorized expense tracking with interactive data visualization using Chart.js
+- Budget monitoring with over-limit alerts
+- Backend powered by SQL Server with normalized schema and stored procedures
 
 
 ---
