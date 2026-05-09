@@ -65,7 +65,19 @@ A full-stack application for managing products and customer orders.
 
 
 ---
+### OOP-Based Banking Management System
+Banking management system using C++, OOP Principles
+- Simulated core banking operations (account creation, deposits, withdrawals) applying
+encapsulation, inheritance, and polymorphism
 
+---
+### Sudoku Game in Assembly Language 
+Fully functional suduko game in Assembly Language (COAL) 
+- Built a fully playable Sudoku game with grid generation, input handling, and constraint-solving logic at
+the hardware level. 
+- Optimised for low-level memory efficiency using registers, stacks, and system interrupts.
+
+---
 ## Contact
 
 Email: [amnandz123@gmail.com](mailto:amnandz123@gmail.com)
